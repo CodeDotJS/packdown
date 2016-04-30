@@ -27,8 +27,11 @@ packStat('request').then(package => {
 ```
 ## Related
 
-- [twifo](https://github.com/codedotjs/twifo)
-- [packages-by](https://github.com/codedotjs/packages-by)
+- [packstat-cli](https://github.com/CodeDotJs/packstat-cli) CLI Tool for this module.
+
+- [twifo](https://github.com/codedotjs/twifo) Get user information of a twitter user.
+
+- [packages-by](https://github.com/codedotjs/packages-by) Total packages uploaded by an npm user.
 
 ## License
 
