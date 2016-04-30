@@ -16,9 +16,9 @@ packStat('request').then(package => {
 	console.log(package);
 	/*
 	{
-		Last Day : 535,972 downloads
-		Last Week : 3,360,202 downloads
-		Last Month : 14,974,412 downloads
+		lastDay : 535,972 downloads
+		lastWeek : 3,360,202 downloads
+		lastMonth : 14,974,412 downloads
 	}
 	*/
 });
