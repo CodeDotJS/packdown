@@ -1,6 +1,6 @@
 {
   "name": "packstat",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Displays metrics about npm modules.",
   "license": "MIT",
   "repository": {
