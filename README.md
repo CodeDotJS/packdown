@@ -2,7 +2,7 @@
 
 > Displays metrics about npm modules.
 
-## Insatll
+## Install
 
 > npm install --save packstat
 
