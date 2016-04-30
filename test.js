@@ -1,6 +1,9 @@
 import test from 'ava';
 import fn from './';
 
-test('title', t => {
-	t.is(fn('unicorns'), 'unicorns & rainbows');
+test(async t => {
+	const packStat = await fn('twifo');
+
+	t.is(packStat.lastDay, '0 downloads');
 });
+
