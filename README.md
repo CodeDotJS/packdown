@@ -14,8 +14,8 @@
 
 const packStat = require('packstat');
 
-packStat('request').then(package => {
-	console.log(package);
+packStat('request').then(module => {
+	console.log(module);
 	/*
 	{
 		lastDay : 535,972 downloads
