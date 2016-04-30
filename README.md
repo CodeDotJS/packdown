@@ -12,7 +12,7 @@
 
 const packStat = require('packstat');
 
-packStat('cheerio').then(package => {
+packStat('request').then(package => {
 	console.log(package);
 	/*
 	{
